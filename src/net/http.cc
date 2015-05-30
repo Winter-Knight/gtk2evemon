@@ -98,56 +98,80 @@ Http::set_url (std::string const& url)
 HttpDataPtr
 Http::request (void)
 {
-  this->bytes_read = 0;
-  this->bytes_total = 0;
+  // Assuming ssl and no proxy, ignoring user settings
 
-  Net::TCPSocket* sock;
-  if (this->use_ssl)
-    sock = new Net::SSLTCPSocket();
-  else
-    sock = new Net::TCPSocket();
+  bytes_read = 0; // Never gets set. Seems to work anyway.
+  bytes_total = 0;
 
-  try
-  {
-    /* Initialize a valid HTTP connection. */
-    this->http_state = HTTP_STATE_CONNECTING;
-    this->initialize_connection(sock);
+  // Set up variables
+  HttpDataPtr result = HttpData::create();
+  const size_t BUFFER_SIZE = 4096; // A reasonable size
+  FILE * pipe;
+  char str[BUFFER_SIZE + 1];
+  std::stringstream command;
+  std::stringstream http_data;
+  std::string header_line;
+  std::stringstream xml_data_stream;
+  std::string xml_data;
+  size_t len;
 
-    /* If we use SSL and have a proxy, send CONNECT command. */
-    if (this->use_ssl && !this->proxy.empty())
-       this->send_proxy_connect(sock);
+  // Set up command
+  command << "wget -q -O - --save-headers --user-agent='" << agent << "' ";
+  if (data.size() > 0)
+    command << "--post-data='" << data << "' ";
+  command << "https://" << host;
+  if (port != 443 && port != 80)
+    command << ":" << port;
+  command << path;
 
-    /* If we use SSL, do the handshake now. */
-    if (this->use_ssl)
-    {
-      this->http_state = HTTP_STATE_SSL_HANDSHAKE;
-      dynamic_cast<Net::SSLTCPSocket*>(sock)->check_hostname(this->host);
-      dynamic_cast<Net::SSLTCPSocket*>(sock)->ssl_handshake();
-    }
+/*  std::cout << command.str() << std::endl;
+  exit(1); */
 
-    /* Successful connect. Start building the request. */
-    this->http_state = HTTP_STATE_REQUESTING;
-    this->send_http_headers(sock);
+  // Execute command and store data in a stream
+  pipe = popen(command.str().c_str(), "r");
+  do {
+    len = fread(str, 1, BUFFER_SIZE, pipe);
+    str[len] = 0;
+    http_data << str;
+  } while (len == BUFFER_SIZE);
+  pclose(pipe);
 
-    /* Request has been sent. Read reply. */
-    this->http_state = HTTP_STATE_RECEIVING;
-    HttpDataPtr result = this->read_http_reply(sock);
-
-    /* Close socket. */
-    sock->close();
-
-    /* Done reading the reply. */
-    this->http_state = HTTP_STATE_DONE;
-    return result;
+  // Retrieve headers from stream, line by line
+  while (1) {
+    std::getline(http_data, header_line);
+    if (!header_line.empty() && header_line[header_line.size() - 1] == '\r')
+      header_line.erase(header_line.size() - 1);
+    if (header_line.size() > 1)
+      result->headers.push_back(header_line);
+    else
+      break;
   }
-  catch (Exception& e)
-  {
-    this->http_state = HTTP_STATE_ERROR;
-    if (sock->is_connected())
-      sock->close();
-    delete sock;
-    throw e;
+  
+  // Retrieve xml data from stream all at once
+  xml_data_stream << http_data.rdbuf();
+  xml_data = xml_data_stream.str();
+  bytes_total = xml_data.size();
+  result->data.resize(bytes_total);
+  memcpy(&result->data[0], xml_data.c_str(), bytes_total);
+
+  // There is no error checking, so assume everything was successful
+  result->http_code = 200;
+  http_state = HTTP_STATE_DONE;
+  
+/*  // Debugging:
+  // Print headers
+  int i;
+  for (i = 0; i < (int) result->headers.size(); i++) {
+    printf("Header: %s\n", result->headers[i].c_str());
   }
+  // Print data
+  printf("bytes_total: %lu\n", bytes_total);
+  printf("Data: \n");
+  for (i = 0; i < (int) result->data.size(); i++)
+    printf("%c", result->data[i]);
+*/
+
+  return result;
 }
 
 /* ---------------------------------------------------------------- */
