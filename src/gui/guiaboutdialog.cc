@@ -38,8 +38,7 @@ GuiAboutDialog::GuiAboutDialog (void)
 
       "GtkEveMon on Github:\n"
       "<a href='https://github.com/gtkevemon/gtkevemon'>"
-      "https://github.com/gtkevemon/gtkevemon</a>\n"
-      "GtkEveMon " GTKEVEMON_VERSION_STR);
+      "https://github.com/gtkevemon/gtkevemon</a>");
   info_label->set_use_markup(true);
 
   Gtk::Button* close_but = MK_BUT(Gtk::Stock::CLOSE);
