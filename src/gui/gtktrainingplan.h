@@ -25,9 +25,6 @@
 #include "gtkcolumnsbase.h"
 #include "gtkconfwidgets.h"
 
-/* Update the time values for skills this milli seconds. */
-#define PLANNER_SKILL_TIME_UPDATE 10000
-
 enum GtkSkillIcon
 {
   SKILL_STATUS_TRAINED,
@@ -230,7 +227,6 @@ class GtkTrainingPlan : public Gtk::VBox
     void on_row_deleted (Gtk::TreePath const& path);
     void on_row_activated (Gtk::TreeModel::Path const& path,
         Gtk::TreeViewColumn* column);
-    bool on_update_skill_time (void);
     bool on_query_skillview_tooltip (int x, int y, bool key,
         Glib::RefPtr<Gtk::Tooltip> const& tooltip);
 

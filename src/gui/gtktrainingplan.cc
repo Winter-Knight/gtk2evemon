@@ -731,9 +731,6 @@ GtkTrainingPlan::GtkTrainingPlan (void)
       (*this, &GtkTrainingPlan::on_query_skillview_tooltip));
   this->treeview.set_has_tooltip(true);
 
-  Glib::signal_timeout().connect(sigc::mem_fun(*this,
-      &GtkTrainingPlan::on_update_skill_time), PLANNER_SKILL_TIME_UPDATE);
-
   this->init_from_config();
   this->viewcols.setup_columns_normal();
 }
@@ -1277,15 +1274,6 @@ GtkTrainingPlan::on_row_activated (Gtk::TreeModel::Path const& path,
   GtkSkillInfo& info = this->skills[(*iter)[this->cols.skill_index]];
   ApiSkill const* skill = info.skill;
   this->sig_skill_activated.emit(skill);
-}
-
-/* ---------------------------------------------------------------- */
-
-bool
-GtkTrainingPlan::on_update_skill_time (void)
-{
-  this->update_plan(false);
-  return true;
 }
 
 /* ---------------------------------------------------------------- */
