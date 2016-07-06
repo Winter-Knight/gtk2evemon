@@ -51,17 +51,16 @@ GuiUserData::GuiUserData (void)
 
   Gtk::Label* info1_label = MK_LABEL(
       "Enter your key ID and your verification code such that GtkEveMon "
-      "can request \"SkillQueue\" and \"CharacterSheet\".\n"
-      "You can get the information at:");
+      "can request \"SkillQueue\" and \"CharacterSheet\". You can get "
+      "the information at:\n"
+      "<a href='https://community.eveonline.com/support/api-key/'>"
+      "https://community.eveonline.com/support/api-key/</a>");
   info1_label->set_width_chars(50);
   info1_label->set_line_wrap(true);
   info1_label->set_alignment(Gtk::ALIGN_LEFT);
-  Gtk::Label* info1b_label = MK_LABEL("http://support.eveonline.com/api");
-  info1b_label->set_alignment(Gtk::ALIGN_LEFT);
-  info1b_label->set_selectable(true);
+  info1_label->set_use_markup(true);
   Gtk::VBox* info1_vbox = MK_VBOX0;
   info1_vbox->pack_start(*info1_label, false, false, 0);
-  info1_vbox->pack_start(*info1b_label, false, false, 0);
   info1_hbox->pack_start(*info1_vbox, true, true, 0);
 
   this->api_v1_cb.set_label("APIv1");
