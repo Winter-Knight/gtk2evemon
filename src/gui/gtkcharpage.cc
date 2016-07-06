@@ -472,7 +472,7 @@ struct SkillGroupInfo
   int max;
 
   SkillGroupInfo (Gtk::TreeModel::iterator iter)
-      : iter(iter), sp(0), empty(true) {}
+      : iter(iter), sp(0), empty(true), max(0) {}
 };
 typedef std::map<int, SkillGroupInfo> IterMapType;
 
