@@ -4,7 +4,7 @@
 #include <cstdlib>
 #include "util/helpers.h"
 
-#define IMPLANTS_FN "implants.xml"
+#define IMPLANTS_FN "Implants.xml"
 
 ImplantsPtr Implants::instance;
 
@@ -68,11 +68,28 @@ Implants::parse_implant_tag (xmlNodePtr node)
 {
   std::string name = this->get_property(node, "name");
   int typeID = this->get_property_int(node, "typeID");
-  int charismaBonus = this->get_property_int(node, "charismaBonus");
-  int intelligenceBonus = this->get_property_int(node, "intelligenceBonus");
-  int memoryBonus = this->get_property_int(node, "memoryBonus");
-  int willpowerBonus = this->get_property_int(node, "willpowerBonus");
-  int perceptionBonus = this->get_property_int(node, "perceptionBonus");
+  int charismaBonus = 0, intelligenceBonus = 0, memoryBonus = 0, willpowerBonus = 0, perceptionBonus = 0;
+
+  try {
+    charismaBonus = this->get_property_int(node, "charismaBonus");
+  } catch(Exception & e) {}
+
+  try {
+    intelligenceBonus = this->get_property_int(node, "intelligenceBonus");
+  } catch(Exception & e) {}
+
+  try {
+    memoryBonus = this->get_property_int(node, "memoryBonus");
+  } catch(Exception & e) {}
+
+  try {
+    willpowerBonus = this->get_property_int(node, "willpowerBonus");
+  } catch(Exception & e) {}
+
+  try {
+    perceptionBonus = this->get_property_int(node, "perceptionBonus");
+  } catch(Exception & e) {}
+
   this->implants[typeID] = Implant(typeID, name, charismaBonus, intelligenceBonus,
                              memoryBonus, perceptionBonus, willpowerBonus);
 }

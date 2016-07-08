@@ -288,8 +288,6 @@ ApiCharSheet::find_implant_bonus (xmlNodePtr node, ApiCharAttribs &attribs)
       attribs.cha += implant->charismaBonus;
       attribs.per += implant->perceptionBonus;
       attribs.wil += implant->willpowerBonus;
-    } else {
-      std::cerr << "Unable to find implant data for implant typeID: " << typeID << std::endl;
     }
   }
 }

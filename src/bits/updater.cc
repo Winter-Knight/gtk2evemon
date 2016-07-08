@@ -32,9 +32,9 @@ UpdaterBase::UpdaterBase (void)
     file.local_path = conf_dir + "/" + file.file_name;
     this->files.push_back(file);
 
-    file.file_name = "implants.xml";
-    file.server_host = "www.nexoid.at";
-    file.server_path = "/tmp/implants.xml";
+    file.file_name = "Implants.xml";
+    file.server_host = "raw.githubusercontent.com";
+    file.server_path = "/Winter-Knight/gtk2evemon/master/data/Implants.xml";
     file.local_path = conf_dir + "/" + file.file_name;
     this->files.push_back(file);
 }
