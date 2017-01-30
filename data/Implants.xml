@@ -220,4 +220,25 @@
   <implant typeID="33973" name="Low-grade Virtue Delta" intelligenceBonus="2.0"/>
   <implant typeID="33974" name="Low-grade Virtue Epsilon" charismaBonus="2.0"/>
   <implant typeID="33975" name="Low-grade Virtue Gamma" willpowerBonus="2.0"/>
+  <implant typeID="42145" name="Low-Grade Asklepian Alpha" perceptionBonus="2.0"/>
+  <implant typeID="42146" name="Low-Grade Asklepian Beta" memoryBonus="2.0"/>
+  <implant typeID="42200" name="Low-Grade Asklepian Delta" intelligenceBonus="2.0"/>
+  <implant typeID="42201" name="Low-Grade Asklepian Epsilon" charismaBonus="2.0"/>
+  <implant typeID="42202" name="Low-Grade Asklepian Gamma" willpowerBonus="2.0"/>
+  <implant typeID="42204" name="Mid-Grade Asklepian Alpha" perceptionBonus="3.0"/>
+  <implant typeID="42205" name="Mid-Grade Asklepian Beta" memoryBonus="3.0"/>
+  <implant typeID="42206" name="Mid-Grade Asklepian Gamma" willpowerBonus="3.0"/>
+  <implant typeID="42207" name="Mid-Grade Asklepian Delta" intelligenceBonus="3.0"/>
+  <implant typeID="42208" name="Mid-Grade Asklepian Epsilon" charismaBonus="3.0"/>
+  <implant typeID="42210" name="High-Grade Asklepian Alpha" perceptionBonus="4.0"/>
+  <implant typeID="42211" name="High-Grade Asklepian Beta" memoryBonus="4.0"/>
+  <implant typeID="42212" name="High-Grade Asklepian Gamma" willpowerBonus="4.0"/>
+  <implant typeID="42213" name="High-Grade Asklepian Delta" intelligenceBonus="4.0"/>
+  <implant typeID="42214" name="High-Grade Asklepian Epsilon" charismaBonus="4.0"/>
+  <implant typeID="42232" name="Gold Ouroboros Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="42233" name="Silver Ouroboros Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="42234" name="Copper Ouroboros Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="42531" name="Blood Raider Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="42541" name="Advanced Blood Raider Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
+  <implant typeID="44217" name="YC119 Yoiul Festival Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
 </implants>
