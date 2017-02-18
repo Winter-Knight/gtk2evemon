@@ -132,8 +132,18 @@ Http::request (void)
   {
     http_state = HTTP_STATE_ERROR;
     std::cout << "HTTP Failure: " << curl_easy_strerror(res) << std::endl;
-    curl_easy_cleanup(curl_handle);
-    throw Exception(e);
+
+    // WORKAROUND for Eve Online's failure to properly terminate TLS
+    // connections and GnuTLS's strict adherenece to protocol.
+    if (res == CURLE_RECV_ERROR && result->http_code == 200 && result->data.size() > 11 &&
+      std::string((const char *) &result->data[result->data.size() - 10]) == "</eveapi>") {
+      std::cout << "Recovery from HTTP Failure" << std::endl;
+      http_state = HTTP_STATE_DONE;
+    }
+    else {
+      curl_easy_cleanup(curl_handle);
+      throw Exception(e);
+    }
   }
 
   curl_easy_cleanup(curl_handle);
