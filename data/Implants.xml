@@ -10,23 +10,14 @@
   <implant typeID="9956" name="Social Adaptation Chip - Basic" charismaBonus="3"/>
   <implant typeID="10208" name="Memory Augmentation - Standard" memoryBonus="4"/>
   <implant typeID="10209" name="Memory Augmentation - Improved" memoryBonus="5"/>
-  <implant typeID="10210" name="Memory Augmentation - Advanced" memoryBonus="6"/>
-  <implant typeID="10211" name="Memory Augmentation - Elite" memoryBonus="7"/>
   <implant typeID="10212" name="Neural Boost - Standard" willpowerBonus="4"/>
   <implant typeID="10213" name="Neural Boost - Improved" willpowerBonus="5"/>
-  <implant typeID="10214" name="Neural Boost - Advanced" willpowerBonus="6"/>
-  <implant typeID="10215" name="Neural Boost - Elite" willpowerBonus="7"/>
   <implant typeID="10216" name="Ocular Filter - Standard" perceptionBonus="4"/>
   <implant typeID="10217" name="Ocular Filter - Improved" perceptionBonus="5"/>
-  <implant typeID="10218" name="Ocular Filter - Advanced" perceptionBonus="6"/>
-  <implant typeID="10219" name="Ocular Filter - Elite" perceptionBonus="7"/>
   <implant typeID="10221" name="Cybernetic Subprocessor - Standard" intelligenceBonus="4"/>
   <implant typeID="10222" name="Cybernetic Subprocessor - Improved" intelligenceBonus="5"/>
-  <implant typeID="10223" name="Cybernetic Subprocessor - Advanced" intelligenceBonus="6"/>
-  <implant typeID="10224" name="Cybernetic Subprocessor - Elite" intelligenceBonus="7"/>
   <implant typeID="10225" name="Social Adaptation Chip - Standard" charismaBonus="4"/>
   <implant typeID="10226" name="Social Adaptation Chip - Improved" charismaBonus="5"/>
-  <implant typeID="10227" name="Social Adaptation Chip - Advanced" charismaBonus="6"/>
   <implant typeID="13283" name="Limited Ocular Filter" perceptionBonus="1"/>
   <implant typeID="13284" name="Limited Memory Augmentation" memoryBonus="1"/>
   <implant typeID="13285" name="Limited Neural Boost" willpowerBonus="1"/>
@@ -220,25 +211,26 @@
   <implant typeID="33973" name="Low-grade Virtue Delta" intelligenceBonus="2.0"/>
   <implant typeID="33974" name="Low-grade Virtue Epsilon" charismaBonus="2.0"/>
   <implant typeID="33975" name="Low-grade Virtue Gamma" willpowerBonus="2.0"/>
-  <implant typeID="42145" name="Low-Grade Asklepian Alpha" perceptionBonus="2.0"/>
-  <implant typeID="42146" name="Low-Grade Asklepian Beta" memoryBonus="2.0"/>
-  <implant typeID="42200" name="Low-Grade Asklepian Delta" intelligenceBonus="2.0"/>
-  <implant typeID="42201" name="Low-Grade Asklepian Epsilon" charismaBonus="2.0"/>
-  <implant typeID="42202" name="Low-Grade Asklepian Gamma" willpowerBonus="2.0"/>
-  <implant typeID="42204" name="Mid-Grade Asklepian Alpha" perceptionBonus="3.0"/>
-  <implant typeID="42205" name="Mid-Grade Asklepian Beta" memoryBonus="3.0"/>
-  <implant typeID="42206" name="Mid-Grade Asklepian Gamma" willpowerBonus="3.0"/>
-  <implant typeID="42207" name="Mid-Grade Asklepian Delta" intelligenceBonus="3.0"/>
-  <implant typeID="42208" name="Mid-Grade Asklepian Epsilon" charismaBonus="3.0"/>
-  <implant typeID="42210" name="High-Grade Asklepian Alpha" perceptionBonus="4.0"/>
-  <implant typeID="42211" name="High-Grade Asklepian Beta" memoryBonus="4.0"/>
-  <implant typeID="42212" name="High-Grade Asklepian Gamma" willpowerBonus="4.0"/>
-  <implant typeID="42213" name="High-Grade Asklepian Delta" intelligenceBonus="4.0"/>
-  <implant typeID="42214" name="High-Grade Asklepian Epsilon" charismaBonus="4.0"/>
+  <implant typeID="42145" name="Low-grade Asklepian Alpha" perceptionBonus="2.0"/>
+  <implant typeID="42146" name="Low-grade Asklepian Beta" memoryBonus="2.0"/>
+  <implant typeID="42200" name="Low-grade Asklepian Delta" intelligenceBonus="2.0"/>
+  <implant typeID="42201" name="Low-grade Asklepian Epsilon" charismaBonus="2.0"/>
+  <implant typeID="42202" name="Low-grade Asklepian Gamma" willpowerBonus="2.0"/>
+  <implant typeID="42204" name="Mid-grade Asklepian Alpha" perceptionBonus="3.0"/>
+  <implant typeID="42205" name="Mid-grade Asklepian Beta" memoryBonus="3.0"/>
+  <implant typeID="42206" name="Mid-grade Asklepian Gamma" willpowerBonus="3.0"/>
+  <implant typeID="42207" name="Mid-grade Asklepian Delta" intelligenceBonus="3.0"/>
+  <implant typeID="42208" name="Mid-grade Asklepian Epsilon" charismaBonus="3.0"/>
+  <implant typeID="42210" name="High-grade Asklepian Alpha" perceptionBonus="4.0"/>
+  <implant typeID="42211" name="High-grade Asklepian Beta" memoryBonus="4.0"/>
+  <implant typeID="42212" name="High-grade Asklepian Gamma" willpowerBonus="4.0"/>
+  <implant typeID="42213" name="High-grade Asklepian Delta" intelligenceBonus="4.0"/>
+  <implant typeID="42214" name="High-grade Asklepian Epsilon" charismaBonus="4.0"/>
   <implant typeID="42232" name="Gold Ouroboros Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
   <implant typeID="42233" name="Silver Ouroboros Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
   <implant typeID="42234" name="Copper Ouroboros Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
   <implant typeID="42531" name="Blood Raider Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
   <implant typeID="42541" name="Advanced Blood Raider Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
   <implant typeID="44217" name="YC119 Yoiul Festival Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="45634" name="Rogue Swarm Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
 </implants>
