@@ -226,11 +226,5 @@
   <implant typeID="42212" name="High-grade Asklepian Gamma" willpowerBonus="4.0"/>
   <implant typeID="42213" name="High-grade Asklepian Delta" intelligenceBonus="4.0"/>
   <implant typeID="42214" name="High-grade Asklepian Epsilon" charismaBonus="4.0"/>
-  <implant typeID="42232" name="Gold Ouroboros Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="42233" name="Silver Ouroboros Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="42234" name="Copper Ouroboros Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="42531" name="Blood Raider Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="42541" name="Advanced Blood Raider Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
-  <implant typeID="44217" name="YC119 Yoiul Festival Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="45634" name="Rogue Swarm Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="46007" name="Valkyrie Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
 </implants>
