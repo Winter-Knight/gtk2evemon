@@ -226,5 +226,7 @@
   <implant typeID="42212" name="High-grade Asklepian Gamma" willpowerBonus="4.0"/>
   <implant typeID="42213" name="High-grade Asklepian Delta" intelligenceBonus="4.0"/>
   <implant typeID="42214" name="High-grade Asklepian Epsilon" charismaBonus="4.0"/>
-  <implant typeID="46007" name="Valkyrie Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="46008" name="Crimson Harvest Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="46009" name="Yoiul Festival Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="47016" name="Rogue Swarm Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
 </implants>
