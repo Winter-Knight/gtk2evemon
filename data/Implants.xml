@@ -229,7 +229,12 @@
   <implant typeID="47265" name="Expired Guardian Angels 'Standard' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
   <implant typeID="47266" name="Expired Guardian Angels 'Advanced' Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
   <implant typeID="47267" name="Expired Serpentis Inquest 'Dripfeed' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="47395" name="Standard 'Guri Hivaa' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="47396" name="Advanced 'Guri Hivaa' Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
-  <implant typeID="47397" name="Extended 'Guri Hivaa' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="47395" name="Expired Standard 'Guri Hivaa' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="47396" name="Expired Advanced 'Guri Hivaa' Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
+  <implant typeID="47397" name="Expired Extended 'Guri Hivaa' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="47481" name="CDIA SPACE Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
+  <implant typeID="47705" name="Basic X-Sense 'Consciousness' Cerebral Accelerator" charismaBonus="6.0" intelligenceBonus="6.0" memoryBonus="6.0" perceptionBonus="6.0" willpowerBonus="6.0"/>
+  <implant typeID="47706" name="Improved X-Sense 'Consciousness' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="47707" name="Advanced X-Sense 'Consciousness' Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
+  <implant typeID="47708" name="Extended X-Sense 'Consciousness' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
 </implants>
