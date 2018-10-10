@@ -233,11 +233,13 @@
   <implant typeID="47396" name="Expired Advanced 'Guri Hivaa' Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
   <implant typeID="47397" name="Expired Extended 'Guri Hivaa' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
   <implant typeID="47481" name="Expired CDIA SPACE Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
-  <implant typeID="47705" name="Basic X-Sense 'Consciousness' Cerebral Accelerator" charismaBonus="6.0" intelligenceBonus="6.0" memoryBonus="6.0" perceptionBonus="6.0" willpowerBonus="6.0"/>
-  <implant typeID="47706" name="Improved X-Sense 'Consciousness' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="47707" name="Advanced X-Sense 'Consciousness' Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
-  <implant typeID="47708" name="Extended X-Sense 'Consciousness' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="48116" name="Standard 'Liberty' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="48117" name="Advanced 'Liberty' Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
-  <implant typeID="48118" name="Extended 'Liberty' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="48582" name="Master-at-Arms Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="48601" name="B09" charismaBonus="6.0" intelligenceBonus="6.0" memoryBonus="6.0" perceptionBonus="6.0" willpowerBonus="6.0"/>
+  <implant typeID="48602" name="S09" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="48603" name="A09" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
+  <implant typeID="48604" name="E09" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="48605" name="B10" charismaBonus="6.0" intelligenceBonus="6.0" memoryBonus="6.0" perceptionBonus="6.0" willpowerBonus="6.0"/>
+  <implant typeID="48606" name="S10" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="48607" name="A10" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
+  <implant typeID="48608" name="E10" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
 </implants>
