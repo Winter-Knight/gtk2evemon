@@ -44,15 +44,15 @@
   <implant typeID="20159" name="High-grade Crystal Delta" intelligenceBonus="4.0"/>
   <implant typeID="20160" name="High-grade Crystal Epsilon" charismaBonus="4.0"/>
   <implant typeID="20498" name="High-grade Halo Alpha" perceptionBonus="4.0"/>
-  <implant typeID="20499" name="High-grade Slave Alpha" perceptionBonus="4.0"/>
+  <implant typeID="20499" name="High-grade Amulet Alpha" perceptionBonus="4.0"/>
   <implant typeID="20500" name="High-grade Halo Beta" memoryBonus="4.0"/>
-  <implant typeID="20501" name="High-grade Slave Beta" memoryBonus="4.0"/>
+  <implant typeID="20501" name="High-grade Amulet Beta" memoryBonus="4.0"/>
   <implant typeID="20502" name="High-grade Halo Delta" intelligenceBonus="4.0"/>
-  <implant typeID="20503" name="High-grade Slave Delta" intelligenceBonus="4.0"/>
+  <implant typeID="20503" name="High-grade Amulet Delta" intelligenceBonus="4.0"/>
   <implant typeID="20504" name="High-grade Halo Epsilon" charismaBonus="4.0"/>
-  <implant typeID="20505" name="High-grade Slave Epsilon" charismaBonus="4.0"/>
+  <implant typeID="20505" name="High-grade Amulet Epsilon" charismaBonus="4.0"/>
   <implant typeID="20506" name="High-grade Halo Gamma" willpowerBonus="4.0"/>
-  <implant typeID="20507" name="High-grade Slave Gamma" willpowerBonus="4.0"/>
+  <implant typeID="20507" name="High-grade Amulet Gamma" willpowerBonus="4.0"/>
   <implant typeID="22107" name="Mid-grade Crystal Alpha" perceptionBonus="3.0"/>
   <implant typeID="22108" name="Mid-grade Crystal Beta" memoryBonus="3.0"/>
   <implant typeID="22109" name="Mid-grade Crystal Delta" intelligenceBonus="3.0"/>
@@ -63,11 +63,11 @@
   <implant typeID="22115" name="Mid-grade Halo Delta" intelligenceBonus="3.0"/>
   <implant typeID="22116" name="Mid-grade Halo Epsilon" charismaBonus="3.0"/>
   <implant typeID="22117" name="Mid-grade Halo Gamma" willpowerBonus="3.0"/>
-  <implant typeID="22119" name="Mid-grade Slave Alpha" perceptionBonus="3.0"/>
-  <implant typeID="22120" name="Mid-grade Slave Beta" memoryBonus="3.0"/>
-  <implant typeID="22121" name="Mid-grade Slave Delta" intelligenceBonus="3.0"/>
-  <implant typeID="22122" name="Mid-grade Slave Epsilon" charismaBonus="3.0"/>
-  <implant typeID="22123" name="Mid-grade Slave Gamma" willpowerBonus="3.0"/>
+  <implant typeID="22119" name="Mid-grade Amulet Alpha" perceptionBonus="3.0"/>
+  <implant typeID="22120" name="Mid-grade Amulet Beta" memoryBonus="3.0"/>
+  <implant typeID="22121" name="Mid-grade Amulet Delta" intelligenceBonus="3.0"/>
+  <implant typeID="22122" name="Mid-grade Amulet Epsilon" charismaBonus="3.0"/>
+  <implant typeID="22123" name="Mid-grade Amulet Gamma" willpowerBonus="3.0"/>
   <implant typeID="22125" name="Mid-grade Snake Alpha" perceptionBonus="3.0"/>
   <implant typeID="22126" name="Mid-grade Snake Beta" memoryBonus="3.0"/>
   <implant typeID="22127" name="Mid-grade Snake Delta" intelligenceBonus="3.0"/>
@@ -191,11 +191,11 @@
   <implant typeID="33949" name="Low-grade Nomad Delta" intelligenceBonus="2.0"/>
   <implant typeID="33950" name="Low-grade Nomad Epsilon" charismaBonus="2.0"/>
   <implant typeID="33951" name="Low-grade Nomad Gamma" willpowerBonus="2.0"/>
-  <implant typeID="33953" name="Low-grade Slave Alpha" perceptionBonus="2.0"/>
-  <implant typeID="33954" name="Low-grade Slave Beta" memoryBonus="2.0"/>
-  <implant typeID="33955" name="Low-grade Slave Delta" intelligenceBonus="2.0"/>
-  <implant typeID="33956" name="Low-grade Slave Epsilon" charismaBonus="2.0"/>
-  <implant typeID="33957" name="Low-grade Slave Gamma" willpowerBonus="2.0"/>
+  <implant typeID="33953" name="Low-grade Amulet Alpha" perceptionBonus="2.0"/>
+  <implant typeID="33954" name="Low-grade Amulet Beta" memoryBonus="2.0"/>
+  <implant typeID="33955" name="Low-grade Amulet Delta" intelligenceBonus="2.0"/>
+  <implant typeID="33956" name="Low-grade Amulet Epsilon" charismaBonus="2.0"/>
+  <implant typeID="33957" name="Low-grade Amulet Gamma" willpowerBonus="2.0"/>
   <implant typeID="33959" name="Low-grade Snake Alpha" perceptionBonus="2.0"/>
   <implant typeID="33960" name="Low-grade Snake Beta" memoryBonus="2.0"/>
   <implant typeID="33961" name="Low-grade Snake Delta" intelligenceBonus="2.0"/>
@@ -234,12 +234,20 @@
   <implant typeID="47397" name="Expired Extended 'Guri Hivaa' Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
   <implant typeID="47481" name="Expired CDIA SPACE Cerebral Accelerator" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
   <implant typeID="48582" name="Master-at-Arms Cerebral Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="48601" name="B09" charismaBonus="6.0" intelligenceBonus="6.0" memoryBonus="6.0" perceptionBonus="6.0" willpowerBonus="6.0"/>
-  <implant typeID="48602" name="S09" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="48603" name="A09" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
-  <implant typeID="48604" name="E09" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="48605" name="B10" charismaBonus="6.0" intelligenceBonus="6.0" memoryBonus="6.0" perceptionBonus="6.0" willpowerBonus="6.0"/>
-  <implant typeID="48606" name="S10" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
-  <implant typeID="48607" name="A10" charismaBonus="12.0" intelligenceBonus="12.0" memoryBonus="12.0" perceptionBonus="12.0" willpowerBonus="12.0"/>
-  <implant typeID="48608" name="E10" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="49753" name="Onslaught Accelerator" charismaBonus="10.0" intelligenceBonus="10.0" memoryBonus="10.0" perceptionBonus="10.0" willpowerBonus="10.0"/>
+  <implant typeID="52674" name="Low-Grade Mimesis Alpha" perceptionBonus="2.0"/>
+  <implant typeID="52679" name="Low-Grade Mimesis Beta" memoryBonus="2.0"/>
+  <implant typeID="52680" name="Low-Grade Mimesis Gamma" willpowerBonus="2.0"/>
+  <implant typeID="52681" name="Low-Grade Mimesis Delta" intelligenceBonus="2.0"/>
+  <implant typeID="52682" name="Low-Grade Mimesis Epsilon" charismaBonus="2.0"/>
+  <implant typeID="52785" name="Mid-Grade Mimesis Alpha" perceptionBonus="3.0"/>
+  <implant typeID="52786" name="Mid-Grade Mimesis Beta" memoryBonus="3.0"/>
+  <implant typeID="52787" name="Mid-Grade Mimesis Gamma" willpowerBonus="3.0"/>
+  <implant typeID="52788" name="Mid-Grade Mimesis Delta" intelligenceBonus="3.0"/>
+  <implant typeID="52789" name="Mid-Grade Mimesis Epsilon" charismaBonus="3.0"/>
+  <implant typeID="52917" name="High-Grade Mimesis Alpha" perceptionBonus="4.0"/>
+  <implant typeID="52918" name="High-Grade Mimesis Beta" memoryBonus="4.0"/>
+  <implant typeID="52919" name="High-Grade Mimesis Delta" intelligenceBonus="4.0"/>
+  <implant typeID="52920" name="High-Grade Mimesis Epsilon" charismaBonus="4.0"/>
+  <implant typeID="52921" name="High-Grade Mimesis Gamma" willpowerBonus="4.0"/>
 </implants>
