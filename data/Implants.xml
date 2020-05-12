@@ -260,4 +260,44 @@
   <implant typeID="53712" name="High-grade Nirvana Delta" Intelligence Modifier="4.0"/>
   <implant typeID="53713" name="High-grade Nirvana Epsilon" Charisma Modifier="4.0"/>
   <implant typeID="53715" name="High-grade Nirvana Gamma" Willpower Modifier="4.0"/>
+  <implant typeID="53853" name="Low-grade Nirvana Alpha" Perception Modifier="2.0"/>
+  <implant typeID="53854" name="Low-grade Nirvana Beta" Memory Modifier="2.0"/>
+  <implant typeID="53855" name="Low-grade Nirvana Gamma" Willpower Modifier="2.0"/>
+  <implant typeID="53856" name="Low-grade Nirvana Delta" Intelligence Modifier="2.0"/>
+  <implant typeID="53857" name="Low-grade Nirvana Epsilon" Charisma Modifier="2.0"/>
+  <implant typeID="53890" name="High-grade Savior Alpha" Perception Modifier="4.0"/>
+  <implant typeID="53891" name="High-grade Savior Beta" Memory Modifier="4.0"/>
+  <implant typeID="53892" name="High-grade Savior Gamma" Willpower Modifier="4.0"/>
+  <implant typeID="53893" name="High-grade Savior Delta" Intelligence Modifier="4.0"/>
+  <implant typeID="53894" name="High-grade Savior Epsilon" Charisma Modifier="4.0"/>
+  <implant typeID="53896" name="Mid-grade Savior Alpha" Perception Modifier="3.0"/>
+  <implant typeID="53897" name="Mid-grade Savior Beta" Memory Modifier="3.0"/>
+  <implant typeID="53898" name="Mid-grade Savior Gamma" Willpower Modifier="3.0"/>
+  <implant typeID="53899" name="Mid-grade Savior Delta" Intelligence Modifier="3.0"/>
+  <implant typeID="53900" name="Mid-grade Savior Epsilon" Charisma Modifier="3.0"/>
+  <implant typeID="53902" name="Low-grade Savior Alpha" Perception Modifier="2.0"/>
+  <implant typeID="53903" name="Low-grade Savior Beta" Memory Modifier="2.0"/>
+  <implant typeID="53904" name="Low-grade Savior Gamma" Willpower Modifier="2.0"/>
+  <implant typeID="53905" name="Low-grade Savior Delta" Intelligence Modifier="2.0"/>
+  <implant typeID="53906" name="Low-grade Savior Epsilon" Charisma Modifier="2.0"/>
+  <implant typeID="54392" name="High-grade Hydra Alpha" Perception Modifier="4.0"/>
+  <implant typeID="54393" name="High-grade Hydra Beta" Memory Modifier="4.0"/>
+  <implant typeID="54394" name="High-grade Hydra Gamma" Willpower Modifier="4.0"/>
+  <implant typeID="54395" name="High-grade Hydra Delta" Intelligence Modifier="4.0"/>
+  <implant typeID="54396" name="High-grade Hydra Epsilon" Charisma Modifier="4.0"/>
+  <implant typeID="54398" name="Mid-grade Hydra Alpha" Perception Modifier="3.0"/>
+  <implant typeID="54399" name="Mid-grade Hydra Beta" Memory Modifier="3.0"/>
+  <implant typeID="54400" name="Mid-grade Hydra Gamma" Willpower Modifier="3.0"/>
+  <implant typeID="54401" name="Mid-grade Hydra Delta" Intelligence Modifier="3.0"/>
+  <implant typeID="54402" name="Mid-grade Hydra Epsilon" Charisma Modifier="3.0"/>
+  <implant typeID="54404" name="Low-grade Hydra Alpha" Perception Modifier="2.0"/>
+  <implant typeID="54405" name="Low-grade Hydra Beta" Memory Modifier="2.0"/>
+  <implant typeID="54406" name="Low-grade Hydra Gamma" Willpower Modifier="2.0"/>
+  <implant typeID="54407" name="Low-grade Hydra Delta" Intelligence Modifier="2.0"/>
+  <implant typeID="54408" name="Low-grade Hydra Epsilon" Charisma Modifier="2.0"/>
+  <implant typeID="54651" name="Extended Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="54655" name="Basic Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="54656" name="Standard Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="54657" name="Advanced Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="54660" name="Serenity Monthly Cerebral Accelerator - 2020.5" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
 </implants>
