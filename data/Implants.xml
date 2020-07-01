@@ -300,9 +300,11 @@
   <implant typeID="54656" name="Standard Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
   <implant typeID="54657" name="Advanced Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
   <implant typeID="54660" name="Expired Serenity Monthly Cerebral Accelerator - 2020.5" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
-  <implant typeID="54812" name="Basic Capsuleer Day Cerebral Accelerator" Charisma Modifier="4.0" Intelligence Modifier="4.0" Memory Modifier="4.0" Perception Modifier="4.0" Willpower Modifier="4.0"/>
-  <implant typeID="54813" name="Potent Capsuleer Day Cerebral Accelerator" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
-  <implant typeID="54814" name="Extended Capsuleer Day Cerebral Accelerator" Charisma Modifier="6.0" Intelligence Modifier="6.0" Memory Modifier="6.0" Perception Modifier="6.0" Willpower Modifier="6.0"/>
   <implant typeID="54976" name="Serenity Monthly Cerebral Accelerator - 2020.6" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="55700" name="Serenity Special Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="55747" name="Serenity Monthly Cerebral Accelerator - 2020.7" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="55803" name="Amarr spaceship skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="55804" name="Caldari spaceship skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="55805" name="Gallente spaceship skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="55806" name="Minmatar spaceship skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
 </implants>
