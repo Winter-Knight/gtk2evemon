@@ -235,21 +235,21 @@
   <implant typeID="47481" name="Expired CDIA SPACE Cerebral Accelerator" Charisma Modifier="12.0" Intelligence Modifier="12.0" Memory Modifier="12.0" Perception Modifier="12.0" Willpower Modifier="12.0"/>
   <implant typeID="48582" name="Master-at-Arms Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
   <implant typeID="49753" name="Onslaught Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
-  <implant typeID="52674" name="Low-Grade Mimesis Alpha" Perception Modifier="2.0"/>
-  <implant typeID="52679" name="Low-Grade Mimesis Beta" Memory Modifier="2.0"/>
-  <implant typeID="52680" name="Low-Grade Mimesis Gamma" Willpower Modifier="2.0"/>
-  <implant typeID="52681" name="Low-Grade Mimesis Delta" Intelligence Modifier="2.0"/>
-  <implant typeID="52682" name="Low-Grade Mimesis Epsilon" Charisma Modifier="2.0"/>
-  <implant typeID="52785" name="Mid-Grade Mimesis Alpha" Perception Modifier="3.0"/>
-  <implant typeID="52786" name="Mid-Grade Mimesis Beta" Memory Modifier="3.0"/>
-  <implant typeID="52787" name="Mid-Grade Mimesis Gamma" Willpower Modifier="3.0"/>
-  <implant typeID="52788" name="Mid-Grade Mimesis Delta" Intelligence Modifier="3.0"/>
-  <implant typeID="52789" name="Mid-Grade Mimesis Epsilon" Charisma Modifier="3.0"/>
-  <implant typeID="52917" name="High-Grade Mimesis Alpha" Perception Modifier="4.0"/>
-  <implant typeID="52918" name="High-Grade Mimesis Beta" Memory Modifier="4.0"/>
-  <implant typeID="52919" name="High-Grade Mimesis Delta" Intelligence Modifier="4.0"/>
-  <implant typeID="52920" name="High-Grade Mimesis Epsilon" Charisma Modifier="4.0"/>
-  <implant typeID="52921" name="High-Grade Mimesis Gamma" Willpower Modifier="4.0"/>
+  <implant typeID="52674" name="Low-grade Mimesis Alpha" Perception Modifier="2.0"/>
+  <implant typeID="52679" name="Low-grade Mimesis Beta" Memory Modifier="2.0"/>
+  <implant typeID="52680" name="Low-grade Mimesis Gamma" Willpower Modifier="2.0"/>
+  <implant typeID="52681" name="Low-grade Mimesis Delta" Intelligence Modifier="2.0"/>
+  <implant typeID="52682" name="Low-grade Mimesis Epsilon" Charisma Modifier="2.0"/>
+  <implant typeID="52785" name="Mid-grade Mimesis Alpha" Perception Modifier="3.0"/>
+  <implant typeID="52786" name="Mid-grade Mimesis Beta" Memory Modifier="3.0"/>
+  <implant typeID="52787" name="Mid-grade Mimesis Gamma" Willpower Modifier="3.0"/>
+  <implant typeID="52788" name="Mid-grade Mimesis Delta" Intelligence Modifier="3.0"/>
+  <implant typeID="52789" name="Mid-grade Mimesis Epsilon" Charisma Modifier="3.0"/>
+  <implant typeID="52917" name="High-grade Mimesis Alpha" Perception Modifier="4.0"/>
+  <implant typeID="52918" name="High-grade Mimesis Beta" Memory Modifier="4.0"/>
+  <implant typeID="52919" name="High-grade Mimesis Delta" Intelligence Modifier="4.0"/>
+  <implant typeID="52920" name="High-grade Mimesis Epsilon" Charisma Modifier="4.0"/>
+  <implant typeID="52921" name="High-grade Mimesis Gamma" Willpower Modifier="4.0"/>
   <implant typeID="53704" name="Mid-grade Nirvana Alpha" Perception Modifier="3.0"/>
   <implant typeID="53705" name="Mid-grade Nirvana Beta" Memory Modifier="3.0"/>
   <implant typeID="53706" name="Mid-grade Nirvana Delta" Intelligence Modifier="3.0"/>
@@ -295,10 +295,10 @@
   <implant typeID="54406" name="Low-grade Hydra Gamma" Willpower Modifier="2.0"/>
   <implant typeID="54407" name="Low-grade Hydra Delta" Intelligence Modifier="2.0"/>
   <implant typeID="54408" name="Low-grade Hydra Epsilon" Charisma Modifier="2.0"/>
-  <implant typeID="54651" name="Extended Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
-  <implant typeID="54655" name="Basic Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
-  <implant typeID="54656" name="Standard Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
-  <implant typeID="54657" name="Advanced Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="54651" name="Expired Extended Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="54655" name="Expired Basic Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="54656" name="Expired Standard Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="54657" name="Expired Advanced Serenity Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
   <implant typeID="54660" name="Expired Serenity Monthly Cerebral Accelerator - 2020.5" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="54976" name="Serenity Monthly Cerebral Accelerator - 2020.6" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="55700" name="Serenity Special Cerebral Accelerator" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
@@ -307,4 +307,5 @@
   <implant typeID="55804" name="Caldari spaceship skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
   <implant typeID="55805" name="Gallente spaceship skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
   <implant typeID="55806" name="Minmatar spaceship skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="55826" name="Expert Cerebral Accelerator" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
 </implants>
