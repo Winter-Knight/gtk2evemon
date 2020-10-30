@@ -245,6 +245,9 @@
   <implant typeID="52787" name="Mid-grade Mimesis Gamma" Willpower Modifier="3.0"/>
   <implant typeID="52788" name="Mid-grade Mimesis Delta" Intelligence Modifier="3.0"/>
   <implant typeID="52789" name="Mid-grade Mimesis Epsilon" Charisma Modifier="3.0"/>
+  <implant typeID="52807" name="Basic 'Radiance' Cerebral Accelerator" Charisma Modifier="4.0" Intelligence Modifier="4.0" Memory Modifier="4.0" Perception Modifier="4.0" Willpower Modifier="4.0"/>
+  <implant typeID="52808" name="Potent 'Radiance' Cerebral Accelerator" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
+  <implant typeID="52809" name="Extended 'Radiance' Cerebral Accelerator" Charisma Modifier="6.0" Intelligence Modifier="6.0" Memory Modifier="6.0" Perception Modifier="6.0" Willpower Modifier="6.0"/>
   <implant typeID="52917" name="High-grade Mimesis Alpha" Perception Modifier="4.0"/>
   <implant typeID="52918" name="High-grade Mimesis Beta" Memory Modifier="4.0"/>
   <implant typeID="52919" name="High-grade Mimesis Delta" Intelligence Modifier="4.0"/>
@@ -344,4 +347,5 @@
   <implant typeID="56659" name="Festival-only New Eden Vanguard Pack" Charisma Modifier="3.0" Intelligence Modifier="3.0" Memory Modifier="3.0" Perception Modifier="3.0" Willpower Modifier="3.0"/>
   <implant typeID="56661" name="Festival-only New Eden Commander Pack" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
   <implant typeID="56662" name="Festival-only New Eden Marshal Pack" Charisma Modifier="15.0" Intelligence Modifier="15.0" Memory Modifier="15.0" Perception Modifier="15.0" Willpower Modifier="15.0"/>
+  <implant typeID="56823" name="Serenity Monthly Cerebral Accelerator - 2020.11" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
 </implants>
