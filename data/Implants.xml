@@ -348,4 +348,8 @@
   <implant typeID="56661" name="Festival-only New Eden Commander Pack" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
   <implant typeID="56662" name="Festival-only New Eden Marshal Pack" Charisma Modifier="15.0" Intelligence Modifier="15.0" Memory Modifier="15.0" Perception Modifier="15.0" Willpower Modifier="15.0"/>
   <implant typeID="56823" name="Serenity Monthly Cerebral Accelerator - 2020.11" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="56833" name="Serenity November Season Standard Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="56834" name="Serenity November Season Advanced Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="56835" name="Serenity November Season Pass" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56893" name="Concord Fiesta 11-11" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
 </implants>
