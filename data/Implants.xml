@@ -352,4 +352,20 @@
   <implant typeID="56834" name="Serenity November Season Advanced Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="56835" name="Serenity November Season Pass" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
   <implant typeID="56893" name="Concord Fiesta 11-11" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56970" name="Serenity Monthly Cerebral Accelerator - 2020.12" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="56984" name="Standard projectile turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56985" name="Standard energy turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56986" name="Standard hybrid turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56987" name="Standard missile launcher skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56988" name="Advanced projectile turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56989" name="Advanced energy turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56990" name="Advanced hybrid turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56991" name="Advanced missile launcher skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56992" name="Elite projectile turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56993" name="Elite energy turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56994" name="Elite hybrid turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="56995" name="Elite missile launcher skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57035" name="Serenity December Season Standard Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57036" name="Serenity December Season Advanced Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57037" name="Serenity December Season Pass" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
 </implants>
