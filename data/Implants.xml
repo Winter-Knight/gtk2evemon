@@ -365,7 +365,57 @@
   <implant typeID="56993" name="Elite energy turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
   <implant typeID="56994" name="Elite hybrid turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
   <implant typeID="56995" name="Elite missile launcher skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57000" name="Basic 'Brainfreeze' Cerebral Accelerator" Charisma Modifier="4.0" Intelligence Modifier="4.0" Memory Modifier="4.0" Perception Modifier="4.0" Willpower Modifier="4.0"/>
+  <implant typeID="57001" name="Potent 'Brainfreeze' Cerebral Accelerator" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
+  <implant typeID="57002" name="Extended 'Brainfreeze' Cerebral Accelerator" Charisma Modifier="6.0" Intelligence Modifier="6.0" Memory Modifier="6.0" Perception Modifier="6.0" Willpower Modifier="6.0"/>
   <implant typeID="57035" name="Serenity December Season Standard Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="57036" name="Serenity December Season Advanced Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="57037" name="Serenity December Season Pass" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57110" name="Low-grade Rapture Alpha" Perception Modifier="2.0"/>
+  <implant typeID="57111" name="Low-grade Rapture Beta" Memory Modifier="2.0"/>
+  <implant typeID="57112" name="Low-grade Rapture Gamma" Willpower Modifier="2.0"/>
+  <implant typeID="57113" name="Low-grade Rapture Delta" Intelligence Modifier="2.0"/>
+  <implant typeID="57114" name="Low-grade Rapture Epsilon" Charisma Modifier="2.0"/>
+  <implant typeID="57117" name="Mid-grade Rapture Alpha" Perception Modifier="3.0"/>
+  <implant typeID="57118" name="Mid-grade Rapture Beta" Memory Modifier="3.0"/>
+  <implant typeID="57119" name="Mid-grade Rapture Gamma" Willpower Modifier="3.0"/>
+  <implant typeID="57120" name="Mid-grade Rapture Delta" Intelligence Modifier="3.0"/>
+  <implant typeID="57121" name="Mid-grade Rapture Epsilon" Charisma Modifier="3.0"/>
+  <implant typeID="57123" name="High-grade Rapture Alpha" Perception Modifier="4.0"/>
+  <implant typeID="57124" name="High-grade Rapture Beta" Memory Modifier="4.0"/>
+  <implant typeID="57125" name="High-grade Rapture Gamma" Willpower Modifier="4.0"/>
+  <implant typeID="57126" name="High-grade Rapture Delta" Intelligence Modifier="4.0"/>
+  <implant typeID="57127" name="High-grade Rapture Epsilon" Charisma Modifier="4.0"/>
+  <implant typeID="57201" name="Serenity Monthly Cerebral Accelerator - 2021.1" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57209" name="Serenity YC123.1 Season Standard Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57210" name="Serenity YC123.1 Season Advanced Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57211" name="Serenity YC123.1 Season Pass" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57242" name="Festival-only Outpost Cerebral Accelerator I" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57243" name="Festival-only Outpost Cerebral Accelerator III" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57244" name="Festival-only Outpost Cerebral Accelerator VII" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57245" name="Festival-only Vanguard Cerebral Accelerator I" Charisma Modifier="3.0" Intelligence Modifier="3.0" Memory Modifier="3.0" Perception Modifier="3.0" Willpower Modifier="3.0"/>
+  <implant typeID="57246" name="Festival-only Vanguard Cerebral Accelerator III" Charisma Modifier="3.0" Intelligence Modifier="3.0" Memory Modifier="3.0" Perception Modifier="3.0" Willpower Modifier="3.0"/>
+  <implant typeID="57247" name="Festival-only Vanguard Cerebral Accelerator VII" Charisma Modifier="3.0" Intelligence Modifier="3.0" Memory Modifier="3.0" Perception Modifier="3.0" Willpower Modifier="3.0"/>
+  <implant typeID="57248" name="Festival-only Commander Cerebral Accelerator I" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57249" name="Festival-only Commander Cerebral Accelerator III" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57250" name="Festival-only Commander Cerebral Accelerator VII" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57251" name="Festival-only Marshal Cerebral Accelerator I" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="57252" name="Festival-only Marshal Cerebral Accelerator III" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="57253" name="Festival-only Marshal Cerebral Accelerator VII" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="57284" name="Standard Capsuleer Defense Augmentation Chip" Charisma Modifier="2.0" Intelligence Modifier="2.0" Memory Modifier="2.0" Perception Modifier="2.0" Willpower Modifier="2.0"/>
+  <implant typeID="57287" name="Large Projectile Turret Skill Accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57288" name="Large Hybrid Turret Skill Accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57289" name="Large Energy Turret Skill Accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57290" name="Cruise Missile/Torpedo Skill Accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57291" name="Projectile Turret Specialization Skill Accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57292" name="Energy Turret Specialization Skill Accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57293" name="Hybrid Turret Specialization Skill Accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57294" name="Cruise Missile/Torpedo Specialization Skill Accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57295" name="Serenity Monthly Cerebral Accelerator - 2021.2" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57296" name="Serenity Spring Festival Cerebral Accelerator I" Charisma Modifier="2.0" Intelligence Modifier="2.0" Memory Modifier="2.0" Perception Modifier="2.0" Willpower Modifier="2.0"/>
+  <implant typeID="57297" name="Serenity Spring Festival Cerebral Accelerator II" Charisma Modifier="4.0" Intelligence Modifier="4.0" Memory Modifier="4.0" Perception Modifier="4.0" Willpower Modifier="4.0"/>
+  <implant typeID="57298" name="Serenity Spring Festival Cerebral Accelerator III" Charisma Modifier="6.0" Intelligence Modifier="6.0" Memory Modifier="6.0" Perception Modifier="6.0" Willpower Modifier="6.0"/>
+  <implant typeID="57299" name="Serenity Spring Festival Cerebral Accelerator IV" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
+  <implant typeID="57300" name="Serenity Spring Festival Cerebral Accelerator V" Charisma Modifier="2021.0" Intelligence Modifier="2021.0" Memory Modifier="2021.0" Perception Modifier="2021.0" Willpower Modifier="2021.0"/>
+  <implant typeID="57301" name="Serenity Spring Festival Cerebral Accelerator VI" Charisma Modifier="2021.0" Intelligence Modifier="2021.0" Memory Modifier="2021.0" Perception Modifier="2021.0" Willpower Modifier="2021.0"/>
 </implants>
