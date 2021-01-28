@@ -418,4 +418,7 @@
   <implant typeID="57299" name="Serenity Spring Festival Cerebral Accelerator IV" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
   <implant typeID="57300" name="Serenity Spring Festival Cerebral Accelerator V" Charisma Modifier="2021.0" Intelligence Modifier="2021.0" Memory Modifier="2021.0" Perception Modifier="2021.0" Willpower Modifier="2021.0"/>
   <implant typeID="57301" name="Serenity Spring Festival Cerebral Accelerator VI" Charisma Modifier="2021.0" Intelligence Modifier="2021.0" Memory Modifier="2021.0" Perception Modifier="2021.0" Willpower Modifier="2021.0"/>
+  <implant typeID="57311" name="Serenity YC123.2 Season Standard Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57312" name="Serenity YC123.2 Season Advanced Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57313" name="Serenity YC123.2 Season Pass" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
 </implants>
