@@ -245,6 +245,9 @@
   <implant typeID="52787" name="Mid-grade Mimesis Gamma" Willpower Modifier="3.0"/>
   <implant typeID="52788" name="Mid-grade Mimesis Delta" Intelligence Modifier="3.0"/>
   <implant typeID="52789" name="Mid-grade Mimesis Epsilon" Charisma Modifier="3.0"/>
+  <implant typeID="52801" name="Basic 'Bonding' Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="52802" name="Potent 'Bonding' Cerebral Accelerator" Charisma Modifier="12.0" Intelligence Modifier="12.0" Memory Modifier="12.0" Perception Modifier="12.0" Willpower Modifier="12.0"/>
+  <implant typeID="52803" name="Extended 'Bonding' Cerebral Accelerator" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
   <implant typeID="52807" name="Basic 'Radiance' Cerebral Accelerator" Charisma Modifier="4.0" Intelligence Modifier="4.0" Memory Modifier="4.0" Perception Modifier="4.0" Willpower Modifier="4.0"/>
   <implant typeID="52808" name="Potent 'Radiance' Cerebral Accelerator" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
   <implant typeID="52809" name="Extended 'Radiance' Cerebral Accelerator" Charisma Modifier="6.0" Intelligence Modifier="6.0" Memory Modifier="6.0" Perception Modifier="6.0" Willpower Modifier="6.0"/>
@@ -365,9 +368,6 @@
   <implant typeID="56993" name="Elite energy turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
   <implant typeID="56994" name="Elite hybrid turret skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
   <implant typeID="56995" name="Elite missile launcher skill accelerator" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
-  <implant typeID="57000" name="Basic 'Brainfreeze' Cerebral Accelerator" Charisma Modifier="4.0" Intelligence Modifier="4.0" Memory Modifier="4.0" Perception Modifier="4.0" Willpower Modifier="4.0"/>
-  <implant typeID="57001" name="Potent 'Brainfreeze' Cerebral Accelerator" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
-  <implant typeID="57002" name="Extended 'Brainfreeze' Cerebral Accelerator" Charisma Modifier="6.0" Intelligence Modifier="6.0" Memory Modifier="6.0" Perception Modifier="6.0" Willpower Modifier="6.0"/>
   <implant typeID="57035" name="Serenity December Season Standard Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="57036" name="Serenity December Season Advanced Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="57037" name="Serenity December Season Pass" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
@@ -421,4 +421,8 @@
   <implant typeID="57311" name="Serenity YC123.2 Season Standard Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="57312" name="Serenity YC123.2 Season Advanced Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
   <implant typeID="57313" name="Serenity YC123.2 Season Pass" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57323" name="Serenity ZhenNiu Cerebral Accelerator Type-A" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="57324" name="Serenity ZhenNiu Cerebral Accelerator Type-B" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="57325" name="Serenity ZhenNiu Cerebral Accelerator Type-C" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="57326" name="Serenity ZhenNiu Cerebral Accelerator Type-X" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
 </implants>
