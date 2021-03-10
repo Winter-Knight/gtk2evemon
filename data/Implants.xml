@@ -425,4 +425,11 @@
   <implant typeID="57324" name="Serenity ZhenNiu Cerebral Accelerator Type-B" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
   <implant typeID="57325" name="Serenity ZhenNiu Cerebral Accelerator Type-C" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
   <implant typeID="57326" name="Serenity ZhenNiu Cerebral Accelerator Type-X" Charisma Modifier="10.0" Intelligence Modifier="10.0" Memory Modifier="10.0" Perception Modifier="10.0" Willpower Modifier="10.0"/>
+  <implant typeID="57428" name="Serenity Monthly Cerebral Accelerator - 2021.3" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57430" name="Serenity YC123.3 Season Standard Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57431" name="Serenity YC123.3 Season Advanced Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57432" name="Serenity YC123.3 Season Pass" Charisma Modifier="1.0" Intelligence Modifier="1.0" Memory Modifier="1.0" Perception Modifier="1.0" Willpower Modifier="1.0"/>
+  <implant typeID="57433" name="Serenity Basic 'Bonding' Cerebral Accelerator" Charisma Modifier="5.0" Intelligence Modifier="5.0" Memory Modifier="5.0" Perception Modifier="5.0" Willpower Modifier="5.0"/>
+  <implant typeID="57434" name="Serenity Potent 'Bonding' Cerebral Accelerator" Charisma Modifier="12.0" Intelligence Modifier="12.0" Memory Modifier="12.0" Perception Modifier="12.0" Willpower Modifier="12.0"/>
+  <implant typeID="57435" name="Serenity Extended 'Bonding' Cerebral Accelerator" Charisma Modifier="8.0" Intelligence Modifier="8.0" Memory Modifier="8.0" Perception Modifier="8.0" Willpower Modifier="8.0"/>
 </implants>
